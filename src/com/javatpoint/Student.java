@@ -3,6 +3,7 @@ package com.javatpoint;
 public class Student {
 private int id;
 private String TypeDivision;
+private String division;
 private String name;
 private String RollNumber;
 
