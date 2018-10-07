@@ -2,6 +2,7 @@ package com.javatpoint;
 
 public class Student {
 private int id;
+private String TypeDivision;
 private String name;
 private String RollNumber;
 
