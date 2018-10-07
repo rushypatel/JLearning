@@ -1,6 +1,7 @@
 package com.javatpoint;
 
 public class Student {
+private int id;
 private String name;
 private String RollNumber;
 
