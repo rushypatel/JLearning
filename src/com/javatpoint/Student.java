@@ -23,4 +23,8 @@ public void setRollNumber(String RollNumber) {
 public void displayInfo(){
 	System.out.println("Hello: "+name);
 }
+
+public void displayName(){
+	System.out.println("displayName: "+displayName);
+}
 }
