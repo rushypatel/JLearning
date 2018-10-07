@@ -1,11 +1,19 @@
 package com.javatpoint;
 
 public class Student {
-private int id;
+private int Id;
 private String TypeDivision;
 private String division;
 private String name;
 private String RollNumber;
+
+public int getId() {
+	return name;
+}
+
+public void setId(int Id) {
+	this.Id = Id;
+}
 
 public String getName() {
 	return name;
