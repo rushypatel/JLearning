@@ -3,6 +3,7 @@ package com.javatpoint;
 public class Tutor {
 	private String name;
 	private String subject;
+	private String type;
 
 	/**
 	 * @return the subject
@@ -24,6 +25,14 @@ public class Tutor {
 
 	public void setName(String name) {
 		this.name = name;
+	}
+	
+	public String getType() {
+		return type;
+	}
+
+	public void setType(String type) {
+		this.type = type;
 	}
 
 	public void displayInfo(){
