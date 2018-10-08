@@ -6,6 +6,7 @@ private String TypeDivision;
 private String division;
 private String name;
 private String RollNumber;
+private String LastName;
 // Put Comment
 public int getId() {
 	return name;
