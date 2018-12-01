@@ -37,6 +37,6 @@ public void displayInfo(){
 }
 
 public void displayName(){
-	System.out.println("displayName: "+displayName);
+	System.out.println("displayName: >>>>>>"+displayName);
 }
 }
