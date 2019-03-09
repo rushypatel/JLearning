@@ -1,4 +1,4 @@
-package com.javapoint.admin;
+package com.javatpoint.admin;
 
 public class Role {
 	private int Id;
