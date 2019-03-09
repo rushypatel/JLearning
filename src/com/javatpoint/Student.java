@@ -9,7 +9,7 @@ private String RollNumber;
 private String LastName;
 // Put Comment
 public int getId() {
-	return name;
+	return Id;
 }
 // put comment in setter
 public void setId(int Id) {
@@ -37,6 +37,6 @@ public void displayInfo(){
 }
 
 public void displayName(){
-	System.out.println("displayName: >>>>>>"+displayName);
+	System.out.println("displayName: "+name);
 }
 }
