@@ -4,6 +4,7 @@ public class Attendance {
 	private int id;
 	private String type;
 	private String name;
+	private String department_name;
 
 	public int getId() {
 		return id;
